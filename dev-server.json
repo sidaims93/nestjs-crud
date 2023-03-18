@@ -1,0 +1,11 @@
+{
+  "apps": [{
+    "name": "app",
+    "script": "dist/main.js",
+    "env": {
+      "APP_ENV": "production",
+      "DOMAIN": "localhost",
+      "HOST": "localhost"
+    }
+  }]
+}
